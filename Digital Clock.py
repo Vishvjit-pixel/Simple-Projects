@@ -1,3 +1,11 @@
+"""
+Setup Instructions:
+1. Install a Python IDE (e.g., PyCharm, VS Code, or IDLE).
+2. Ensure that the Tkinter library is available. Tkinter usually comes pre-installed with standard Python distributions.
+   If not, install it using your package manager or ensure your Python installation includes it.
+"""
+
+
 import tkinter as tk
 from time import strftime
 
